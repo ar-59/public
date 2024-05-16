@@ -18,7 +18,7 @@
    
 4. You can **start(1)** or **stop(2)** the Virtual Machine from the **Resources** tab. You can also monitor the uptime remaining for your VM from here.
 
-   ![](/images/image-003.png)
+   ![](/images/image-005.png)
     
 5. You can perform the required tasks using the application provided.
 
