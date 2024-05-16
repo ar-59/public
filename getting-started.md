@@ -6,17 +6,19 @@
 
 1. Once the environment is provisioned, a **virtual machine** (JumpVM) on the left and a lab guide on the right will get loaded in your browser. Use this virtual machine throughout to perform the lab tasks.
 
-   ![](https://raw.githubusercontent.com/CloudLabs-Samples/EduLabs/main/Demo/azure/images/vmandguide.png)
+   ![](/images/image-001.png)
 
 2. To get the lab environment details, you can select the **Environment details** tab, you can locate the **Environment details** tab in the upper right corner.
    
-   ![](https://raw.githubusercontent.com/CloudLabs-Samples/EduLabs/main/Demo/azure/images/env-details.png)
+   ![](/images/image-002.png)
 
 3. You can also open the Lab Guide on a separate full window by selecting the **Split Window** button on the bottom right corner.
+
+   ![](/images/image-004.png)
    
 4. You can **start(1)** or **stop(2)** the Virtual Machine from the **Resources** tab. You can also monitor the uptime remaining for your VM from here.
 
-   ![](https://raw.githubusercontent.com/CloudLabs-Samples/EduLabs/main/Demo/azure/images/resources.png)
+   ![](/images/image-003.png)
     
 5. You can perform the required tasks using the application provided.
 
