@@ -2,10 +2,10 @@
   {
     "Name": "BCIT : COMP 3677",
     "Language": "English",
-    "BaseURL": "https://github.com/CloudLabs-Samples/EduLabs/tree/main/Demo",
+    "BaseURL": "https://github.com/ar-59/public",
     "Files": [
       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-Samples/EduLabs/main/Demo/azure/demo-bcit.md",
+        "RawFilePath": "https://raw.githubusercontent.com/ar-59/public/main/getting-started.md",
         "Order": 1
       }
     ]
